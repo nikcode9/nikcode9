@@ -1,4 +1,4 @@
-JUST EXPLORING OPEN SOURCE
+JUST EXPLORING !
 
 <!---
 nikcode9/nikcode9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
